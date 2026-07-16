@@ -86,7 +86,7 @@ def substituir_palavra(linhas):  #op7
     for linha in linhas:
         novas_linhas.append(linha.replace(antiga, nova))
 
-    novo_texto = " ".join(novas_linhas)
+    novo_texto = "".join(novas_linhas)
 
     open(nome, "w", encoding="utf-8").write(novo_texto)
     print("Arquivo salvo!")
