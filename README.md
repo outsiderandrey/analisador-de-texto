@@ -1,3 +1,5 @@
+*[Read in English](README.en.md)*
+
 # Analisador de Texto
 
 Programa em Python para análise de arquivos `.txt`: conta palavras, identifica palavras distintas, calcula frequência, busca e substitui termos, entre outras operações.
