@@ -18,6 +18,8 @@ Programa em Python para análise de arquivos `.txt`: conta palavras, identifica 
 
 ## Como usar
 
+O repositório já inclui um arquivo `exemplo.txt` pronto pra testar o programa.
+
 1. Coloque o arquivo `.txt` que deseja analisar na mesma pasta do script.
 2. Rode o programa:
 
@@ -31,3 +33,7 @@ python3 analisador_texto.py
 ## Requisitos
 
 - Python 3
+
+---
+
+> Projeto desenvolvido como atividade avaliativa na disciplina de Processamento da Informação, UFABC.

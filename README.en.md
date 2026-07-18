@@ -18,6 +18,8 @@ Python program for analyzing `.txt` files: counts words, identifies distinct wor
 
 ## How to use
 
+The repository already includes a sample `exemplo.txt` file ready to test the program.
+
 1. Place the `.txt` file you want to analyze in the same folder as the script.
 2. Run the program:
 
@@ -31,3 +33,7 @@ python3 analisador_texto.py
 ## Requirements
 
 - Python 3
+
+---
+
+> Developed as a graded assignment for the Information Processing course at UFABC.
